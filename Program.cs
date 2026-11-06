@@ -5,5 +5,4 @@ Console.WriteLine("Goodbye, World!");
 Console.WriteLine("Goodbye, World!");
 Console.WriteLine("Hello, whole!");
 Console.WriteLine("Hello, whole!");
-Console.WriteLine("Hello, whole!");
 
